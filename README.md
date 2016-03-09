@@ -11,10 +11,10 @@ This repository includes all kinds of learning materials about natural language 
 ----------
   * [Statistical Machine Translation](#smt)
   * [Neural Machine Translation](./paper/NMT/)
-  * Deep Learning(./paper/DeepLearning)
-  * Machine Learning(./paper/MachineLearning)
-  * Syntactic parse(./paper/SyntacticParser)
-  * Text Processing(./paper/TextProcessing)
+  * [Deep Learning](./paper/DeepLearning)
+  * [Machine Learning](./paper/MachineLearning)
+  * [Syntactic parse](./paper/SyntacticParser)
+  * [Text Processing](./paper/TextProcessing)
 
   
 [Open Class]
